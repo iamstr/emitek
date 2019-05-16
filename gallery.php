@@ -51,45 +51,39 @@
 </style>
 <body>
 
-<div class="container">
+<div class="container mb-3">
 <!-- Header -->
 <div class="header mx-auto" style="color: #3e65b9;">
-  <h1 style="color: #3e65b9;">Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
+  <h1 style="color: #3e65b9;">Emitek </h1>
+  <p>This is our gallery .</p>
 </div>
 
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
     <img src="images/toilet.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/cleaning.jpg" style="width:100%">
-    <img src="images/floor.jpg" style="width:100%">
-    </div>
-  <div class="column">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/toilet.jpg" style="width:100%">
-    <img src="images/floor.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-  </div>  
-  <div class="column">
-    <img src="images/toilet.jpg" style="width:100%">
-    <img src="images/sink-cleaning.jpg" style="width:100%">
-    <img src="images/glass.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/toilet.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
+    
   </div>
   <div class="column">
     <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/toilet.jpg" style="width:100%">
+   
+  </div>  
+  <div class="column">
+   
+    <img src="images/sink-cleaning.jpg" style="width:100%">
+   
+   
+  </div>
+  <div class="column">
+   
     <img src="images/floor.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
-    <img src="images/woman-bleaching.jpg" style="width:100%">
+   
+  </div>
+  
+  <div class="column">
+   
+    <img src="images/glass.jpg" style="width:100%">
+   
   </div>
 </div>
 
