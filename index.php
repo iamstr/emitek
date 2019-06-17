@@ -99,8 +99,9 @@ to the satisfaction of our customers </div>
 </div>
   
   
-  <div class="row no-gutters mt-5">
-      <div class="col-md-6"><img src="images/Welcome2.png" alt=""></div>
+  <div class="row  mt-5">
+      <div class="col-md-6"><img src="images/503.png" alt="" style="height: 400px;
+object-fit: cover;"></div>
       <div class="col-md-6"><h6 style="font-family: 'Charmonman', cursive; font-size:2em; color:#3e65b9;">Welcome </h6>
       <h3 class="header-text" style="color:#3e65b9;">Emitek Cleaning Services.</h3>
       <p class="lead text-muted">Regular vacuuming and stain-removal products can help, but they simply can’t match the cleaning power of professional carpet cleaning. Emitek can help remove the evidence of everyday living.We provide high quality cleaning, environmental and sanitary services

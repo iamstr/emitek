@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/grid.css">
     <link href="https://fonts.googleapis.com/css?family=Charmonman" rel="stylesheet">
     <!-- Custom styles for this template -->
-   <link rel="shortcut icon" href="images/emitek.png">
+   <link rel="shortcut icon" href="images/PHOTO-2019-06-12-11-27-43.jpg">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet">
     <title>Emitek Cleaning Service</title>
     
@@ -49,7 +49,7 @@
    
    <header class="d-flex d-row justify-content-around fixed-top py-3" style="top:-30px;background:#0e2958;padding-top:20px;padding-bottom:20px; width:auto;height:120px;">
       
-      <a href="index.php" class="pt-4 "><img src="images/emitek.png" alt="logo" style="width:70px;height:70px;"></a>
+      <a href="index.php" class="pt-4 "><img src="images/PHOTO-2019-06-12-11-27-43.jpg" alt="logo" style="width:70px;height:70px;"></a>
        
       
         
